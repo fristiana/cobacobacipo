@@ -1,0 +1,17 @@
+802 utk skip kebalik antara 2 dan 3 (yang harusnya skip itu yg 3)
+filter daftar sampel untuk kolom sampel (jenis sampel belum jalan)
+ganti sampel set sampel yang sampel cadangan untuk diganti lagi si sampel cadangan yang diganti tsb masih anomali utk flag gagal cacahnya/ga kesimpen gagal cacahnya
+
+untuk rekap entri S dibuat ada tabel, grafik, map per wilayah (ada 2 jenis terhadap plot awal desain 
+
+tabulasi produktivitas (ku/ha) menurut wilayah waktu --> catatan kondisi data luas dlm m2, kg (harus dikonversi ke ku dan ha dulu)
+tabulasi produktivitas (ku/ha) menurut jenis komoditas --> catatan kondisi data luas dlm m2, kg (harus dikonversi ke ku dan ha dulu)
+
+utk yang jenisnya plot pembaginya 2.5*2.5
+utk yang jenisnya petak pembaginya adl rincian 603
+
+rumus produktivitas (berat/100)/([2.5*2.5 | rincian 603]/10000) --> april pertengahan (alternatifnya dibuatkan fasilitas export raw data)
+
+penyempurnaan pedoman pengolahan pemutakhiran ubinan dan ubinan S dan SIM-TP Online
+
+untuk semua jenis tabulasi utk jenis padi digabung jadi satu 
