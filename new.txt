@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "hello world.. this is waiz style" 
+=======
+"hello world" 
+
+"weeeeeeeeeeeekkk aku mau edit ini duluan yak"
+>>>>>>> cc864aa82fc8c8ef0ef2d806227522ec2a79f0a5
